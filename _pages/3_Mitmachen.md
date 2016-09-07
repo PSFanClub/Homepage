@@ -5,7 +5,7 @@ subtitle:
 permalink: /mitmachen/
 ---
 
-### Wieso solltst du Mitglied des FanClubs werden?
+### Wieso solltest du Mitglied des FanClubs werden?
 Weil du damit viele verschiedene Fanprojekte rund um PietSmiet unterstützt. Außerdem bietet der FanClub dir auch eine großartige Plattform um dich mit anderen PietSmiet Fans, Gaming Begeisterten und teilzeitbekloppten Schnittchen auszutauschen.
 
 ### Wie wirst du Mitglied?
