@@ -110,12 +110,24 @@ p
   font-weight    : 400;
 }
 
+.article-body
+{
+  padding-bottom : 2em;
+  margin-top     : 2em;
+}
+
+.article-body h2, h3, h4
+{
+  padding-top    : 2.2em;
+  padding-bottom : 1.2em;
+}
+
 article p
 {
-  padding-top    : 2em;
+  padding-top    : 0em;
   padding-left   : 2em;
   padding-right  : 2em;
-  padding-bottom : 2em;
+  padding-bottom : 0em;
 }
 
 .dokumentenlink, .kontaktdatentabelle
@@ -125,6 +137,13 @@ article p
   margin-left     : 48px;
   margin-bottom   : 50px;
   list-style-type : none;
+}
+
+form
+{
+  padding-top    : 0.0em;
+  padding-left   : 2.5em;
+  padding-bottom : 2.0em;
 }
 
 #article-hr
