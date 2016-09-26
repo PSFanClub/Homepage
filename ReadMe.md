@@ -1,4 +1,4 @@
-# ReadME (Windows)
+# ReadMe (Windows)
 
 ### Vorraussetzungen
 
