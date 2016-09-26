@@ -14,4 +14,4 @@ url: "https://www.pietsmiet.club"
 # Build settings
 markdown: kramdown
 include: ['_pages']
-exclude: ['Dockerfile', 'default.conf']
+exclude: ['Dockerfile', 'Vagrantfile', 'startup.sh', 'default.conf']
