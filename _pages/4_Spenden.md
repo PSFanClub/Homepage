@@ -5,17 +5,17 @@ subtitle:
 permalink: /spenden/
 ---
 
-###Wofür werden die Spenden verwendet?
+### Wofür werden die Spenden verwendet?
 Wir verwenden eure Spenden für allgemeine Vereinsausgaben, Fanprojekte wie zum Beispiel den PietSmiet FanServer, Aktionen wie die Kröten-Partei Demonstration auf der Gamescom 2016 oder das PietSmiet Quiz auf der Frankfurter Buchmesse, Mitglieder Unterstützung und gemeinnützige Verlosungen.
 
 Jede größere finanzielle Ausgabe wird von unserem Beirat überprüft und darf nur gemeinnützig und gemäß des Vereinszwecks getätigt werden.
 
-###Warum sollte man spenden?
+### Warum sollte man spenden?
 Wir wollen die Community repräsentieren, die hinter den Jungs von PietSmiet steht, sie anfeuert, ihnen applaudiert aber auch mal zeigt was sie besser machen könnten. Falls du so eine Community unterstützen willst, dann freuen wir uns auf eine Spende von dir, egal ob du Mitglied des Vereins bist oder nicht.
 
 Um möglichst allen PietSmiet Fans eine Mitgliedschaft zu ermöglichen, haben wir uns für einen relativ geringen Mitgliedsbeitrag von aktuell 12€ entschieden. Aus diesem Grund sind wir auf weitere Spenden von treuen Fans angewiesen. Im folgenden findest du verschiedene Möglichkeiten den PietSmiet FanClub finanziell zu unterstützen:
 
-###Wie kann man spenden?
+### Wie kann man spenden?
 Wir freuen uns über jeden Euro, der uns entweder per **Überweisung** an:
 
 *PietSmiet FanClub Deutschland e.V.*  
