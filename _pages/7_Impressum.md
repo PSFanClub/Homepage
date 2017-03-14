@@ -25,7 +25,7 @@ Hannah Langnese (Schatzmeisterin)
   </tr>
   <tr>
     <td>E-Mail:</td>
-    <td>vorstand@pietsmiet-fanseite.de</td>
+    <td>vorstand@pietsmiet.club</td>
   </tr>
 </table>
 
