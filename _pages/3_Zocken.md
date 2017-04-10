@@ -10,17 +10,21 @@ Ihr habt Lust zusammen mit anderen Schnittchen aus der Community zu zocken? Wir 
 Um dieses Verlangen zu befriedigen haben wir was schönes organisiert:
 Vom **10.04.17** bis zum **22.04.17** findet jeden Tag ab 16 Uhr bis ca. 20 Uhr unser erstes Osterzocken statt.
 
-Folgende Spiele werden unter anderem gezockt:
+Der **Zeitplan** sieht wie folgt aus:
 
-- Counter Strike: Global Offensive
-- League of Legends
-- Minecraft
-- Garrys Mod (TTT, PropHunt etc.)
-- Scrap Mechanics (P.R.O.F.I.)
-- Rocket Leauge
-- Trackmania
-- Tabletop Simulator
-- Wolfteam und 7 Days to die
+- Montag, 10.04. Overwatch (ab 18:00)
+- Dienstag 11.04. Minecraft Minigames
+- Mittwoch 12.04. Golf with your Friends
+- Donnerstag 13.04. Rocket League
+- Freitag 14.04. Arma 3
+- Samstag 15.04. CS:GO
+- Sonntag 16.04. FREI
+- Montag 17.04. Minecraft (Ostereier Suche)
+- Dienstag 18.04. Garrys Mod
+- Mittwoch 19.04. Tabletop Simulator
+- Donnerstag 20.04. Scarp Mechanic
+- Freitag 21.04. Civ 5
+- Samstag 22.04. 7 Days to Die
 
 Weitere Spielewünsche werden von uns bei hoher Nachfrage gerne erfüllt.<br>
 Server und Teamspeak werden von uns und unseren Partnern zur Verfügung gestellt!
