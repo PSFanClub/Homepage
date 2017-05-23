@@ -8,8 +8,8 @@ permalink: /impressum/
 
 ### Angaben gemäß §5 TMG:
 PietSmiet Fanclub Deutschland e.V.<br/>
-Bottroper Straße 137<br/>
-46117 Oberhausen
+Falkensteinstraße 180<br/>
+46047 Oberhausen
 
 ### Vertreten durch:
 Karsten Buhlrich (Vorsitzender)<br/>
