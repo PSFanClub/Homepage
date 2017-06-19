@@ -10,7 +10,7 @@ Auf dieser Seite findet ihr Informationen, Blogbeiträge und alles mögliche and
 * * *
 
 ## Ideenexpo 2017: GC Feeling, Arme in Kuhärschen und ganz viel Communityliebe
-*20.06.2017* **Hannover**
+*20.06.2017* - **Hannover**
 
 Am Samstag startete die Ideenexpo 2017 in Hannover. Jay und Sep haben am Nachmittag den GamesSquare eröffnet und wir haben die Messe selbstverständlich schon morgens besucht und hatten daher viel Zeit die teilweise sehr lustigen Exponate auszuprobieren.
 
