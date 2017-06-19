@@ -6,7 +6,7 @@ permalink: /dokumente/
 ---
 
 ### Mitgliedsantrag
-[Download: Mitgliedsantrag.pdf](/dokumente/PietSmiet-FanClub-Mitgliedsantrag-07.09.16.pdf)
+[Download: Mitgliedsantrag.pdf](/dokumente/PietSmiet-FanClub-Mitgliedsantrag-15.06.17.pdf)
 
 ### Satzung
 [Download: Satzung.pdf](/dokumente/PietSmiet-FanClub-Satzung-27.09.15.pdf)
