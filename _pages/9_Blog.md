@@ -4,9 +4,6 @@ title: Blog
 subtitle: Events und Blogeinträge rund um den Verein.
 permalink: /blog/
 ---
-
-# Blog & Events
-
 Auf dieser Seite findet ihr Informationen, Blogbeiträge und alles mögliche andere zu aktuellen Vereinevents, Veranstalltungen die wir besuchen und alles weitere, das ihr wissen müsst! 
 
 * * *
