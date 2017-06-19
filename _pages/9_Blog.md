@@ -59,7 +59,6 @@ Unserer Meinung nach hat es sich gelohnt nach Hannover zu fahren um die Messe zu
 Danke nochmal an jedes Schnittchen, das diesen Tag bereichert hat. 
 
 ![](http://i.imgur.com/aSYBiIS.jpg)
-![](http://i.imgur.com/aSYBiIS.jpg)
 
 * * *
 * * *
