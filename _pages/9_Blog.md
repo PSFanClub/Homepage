@@ -62,7 +62,9 @@ Danke nochmal an jedes Schnittchen, das diesen Tag bereichert hat.
 
 * * *
 * * *
+
 ## Liebe Gamer, Zocker, Noobs und Tryharder
+
 *10.April.2017*
 
 Ihr habt Lust zusammen mit anderen Schnittchen aus der Community zu zocken? Wir auch!
