@@ -13,9 +13,14 @@ Falkensteinstraße 180<br/>
 
 ### Vertreten durch:
 Karsten Buhlrich (Vorsitzender)<br/>
-Felix Frings (stell. Vorsitzender)<br/>
+Raphael Haidler (stell. Vorsitzender)<br/>
 Hannah Langnese (Schatzmeisterin)
 
+### Technische Umsetzung
+Felix Frings
+
+### Redaktionelle Leitung
+Lea Neumann
 
 ### Kontakt:
 <table class="kontaktdatentabelle">
@@ -26,6 +31,13 @@ Hannah Langnese (Schatzmeisterin)
   <tr>
     <td>E-Mail:</td>
     <td>vorstand@pietsmiet.club</td>
+  </tr>
+  <tr>
+    <td>Postfach:</td>
+    <td>
+      PietSmiet Fanclub<br/>
+      Postfach 10 13 11<br/>
+      46013 Oberhausen</td>
   </tr>
 </table>
 
