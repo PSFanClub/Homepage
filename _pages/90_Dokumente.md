@@ -6,7 +6,7 @@ permalink: /dokumente/
 ---
 
 ### Mitgliedsantrag
-[Download: Mitgliedsantrag.pdf](/dokumente/PietSmiet-FanClub-Mitgliedsantrag-22.08.17.pdf)
+[Download: Mitgliedsantrag.pdf](/dokumente/PietSmiet-FanClub-Mitgliedsantrag-21.10.2017.pdf)
 
 **Bitte sendet den Mitgliedsantrag an**
 *PietSmiet Fanclub - Postfach 10 13 11 - 46013 Oberhausen*
